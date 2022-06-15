@@ -7,7 +7,7 @@ function mostraCidade(nome, cidade) {
 }
 
 function mostraHobby(nome, hobby) {
-    return `A cidade de ${nome} é ${hobby}.`;
+    return `O Hobby de ${nome} é ${hobby}.`;
 }
 
 export { mostraIdade, mostraCidade, mostraHobby};
